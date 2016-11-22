@@ -1,0 +1,116 @@
+$tan:#D2B48C;
+$wheat:#F5DEB3;
+$green: #008000;
+$seagreen: #2E8B57;
+$black:#212121;
+$white: floralwhite;
+
+body{
+  font-family: 'Georgia', sans-serif;
+    background-color: $white;
+}
+
+h1{
+  font-size: 2em;
+  font-family: 'Verdana', sans-serif;
+  color:$tan;
+}
+h2{
+  font-size: 1.75em;
+  font-family: 'Verdana', sans-serif;
+  color:$black;
+}
+
+h3{
+  font-size: 1.5em;
+  font-family: 'Verdana', sans-serif;
+  color:$green;
+    text-align: center;
+}
+
+h4{
+  font-size: 1.25em;
+  font-family: 'Verdana', sans-serif;
+  color:$wheat;
+}
+
+h5{
+  font-size: 2em;
+  font-family: 'Verdana', sans-serif;
+  color:$seagreen;
+    text-align: center;
+}
+
+h6{
+  font-size: 1em;
+  font-family: 'Verdana', sans-serif;
+  color:$black;
+  font-style:italic;
+}
+
+figcaption{
+    text-align: center;
+}
+
+.thumbnail {
+  max-width: 300px;
+  height: auto;
+  margin: 5px auto;
+  display: block;
+  cursor: pointer; }
+
+.thumb {
+  max-width: 550px;
+  height: auto;
+  margin: 3px auto;
+  display: block; }
+
+#large-image {
+  width: 90%;
+  height: auto;
+  margin: 1em auto;
+  display: block; }
+
+.container{
+  max-width:1060px;
+  margin:5px auto;
+  padding: 5px;
+  overflow:auto;
+}
+
+.headings{
+  font-size: 1.5em;
+  padding: 2px 15px;
+  font-weight:800;
+  color:$white;
+}
+#colors {
+  width: 80%;
+  margin: 5px auto;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+  color: $green;
+  font-size: 1.2em;
+  padding: .2em;
+  margin-top: .2em;
+  background: $tan; }
+
+.top-bar,
+.top-bar ul {
+  background-color: $tan;
+    padding: .2em;
+    margin-bottom: .7em;}
+
+.menu-text {
+  color: $green;
+  font-size: 1.5em;}
+
+a {
+  color: $green;
+  font-weight: 500; }
+
+a:hover, a:focus {
+  color: $seagreen; }

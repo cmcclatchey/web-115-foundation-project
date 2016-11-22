@@ -1,0 +1,121 @@
+/* line 8, /Volumes/DATA/Users/cmcclatchey/Documents/web115/foundation/css/app.scss */
+body {
+  font-family: 'Georgia', sans-serif;
+  background-color: floralwhite; }
+
+/* line 13, /Volumes/DATA/Users/cmcclatchey/Documents/web115/foundation/css/app.scss */
+h1 {
+  font-size: 2em;
+  font-family: 'Verdana', sans-serif;
+  color: #D2B48C; }
+
+/* line 18, /Volumes/DATA/Users/cmcclatchey/Documents/web115/foundation/css/app.scss */
+h2 {
+  font-size: 1.75em;
+  font-family: 'Verdana', sans-serif;
+  color: #212121; }
+
+/* line 24, /Volumes/DATA/Users/cmcclatchey/Documents/web115/foundation/css/app.scss */
+h3 {
+  font-size: 1.5em;
+  font-family: 'Verdana', sans-serif;
+  color: #008000;
+  text-align: center; }
+
+/* line 31, /Volumes/DATA/Users/cmcclatchey/Documents/web115/foundation/css/app.scss */
+h4 {
+  font-size: 1.25em;
+  font-family: 'Verdana', sans-serif;
+  color: #F5DEB3; }
+
+/* line 37, /Volumes/DATA/Users/cmcclatchey/Documents/web115/foundation/css/app.scss */
+h5 {
+  font-size: 2em;
+  font-family: 'Verdana', sans-serif;
+  color: #2E8B57;
+  text-align: center; }
+
+/* line 44, /Volumes/DATA/Users/cmcclatchey/Documents/web115/foundation/css/app.scss */
+h6 {
+  font-size: 1em;
+  font-family: 'Verdana', sans-serif;
+  color: #212121;
+  font-style: italic; }
+
+/* line 51, /Volumes/DATA/Users/cmcclatchey/Documents/web115/foundation/css/app.scss */
+figcaption {
+  text-align: center; }
+
+/* line 55, /Volumes/DATA/Users/cmcclatchey/Documents/web115/foundation/css/app.scss */
+.thumbnail {
+  max-width: 300px;
+  height: auto;
+  margin: 5px auto;
+  display: block;
+  cursor: pointer; }
+
+/* line 62, /Volumes/DATA/Users/cmcclatchey/Documents/web115/foundation/css/app.scss */
+.thumb {
+  max-width: 550px;
+  height: auto;
+  margin: 3px auto;
+  display: block; }
+
+/* line 68, /Volumes/DATA/Users/cmcclatchey/Documents/web115/foundation/css/app.scss */
+#large-image {
+  width: 90%;
+  height: auto;
+  margin: 1em auto;
+  display: block; }
+
+/* line 74, /Volumes/DATA/Users/cmcclatchey/Documents/web115/foundation/css/app.scss */
+.container {
+  max-width: 1060px;
+  margin: 5px auto;
+  padding: 5px;
+  overflow: auto; }
+
+/* line 81, /Volumes/DATA/Users/cmcclatchey/Documents/web115/foundation/css/app.scss */
+.headings {
+  font-size: 1.5em;
+  padding: 2px 15px;
+  font-weight: 800;
+  color: floralwhite; }
+
+/* line 87, /Volumes/DATA/Users/cmcclatchey/Documents/web115/foundation/css/app.scss */
+#colors {
+  width: 80%;
+  margin: 5px auto; }
+
+/* line 92, /Volumes/DATA/Users/cmcclatchey/Documents/web115/foundation/css/app.scss */
+footer {
+  clear: both;
+  text-align: center;
+  color: #008000;
+  font-size: 1.2em;
+  padding: .2em;
+  margin-top: .2em;
+  background: #D2B48C; }
+
+/* line 102, /Volumes/DATA/Users/cmcclatchey/Documents/web115/foundation/css/app.scss */
+.top-bar,
+.top-bar ul {
+  background-color: #D2B48C;
+  padding: .2em;
+  margin-bottom: .7em; }
+
+/* line 107, /Volumes/DATA/Users/cmcclatchey/Documents/web115/foundation/css/app.scss */
+.menu-text {
+  color: #008000;
+  font-size: 1.5em; }
+
+/* line 111, /Volumes/DATA/Users/cmcclatchey/Documents/web115/foundation/css/app.scss */
+a {
+  color: #008000;
+  font-weight: 500; }
+
+/* line 115, /Volumes/DATA/Users/cmcclatchey/Documents/web115/foundation/css/app.scss */
+a:hover, a:focus {
+  color: #2E8B57; }
+
+/*# sourceMappingURL=app.css.map */
